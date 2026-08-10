@@ -64,8 +64,7 @@ The analysis helps identify:
 
 ## 📁 Project Files
 
-| File                                               | Description                  |
-| -----------------------------------------------------------------------------------  
+ FileS                                               Description                  |  
 | `retail_sales_dataset.csv                          | DIRTY DATASET                |
 | `retail_sales_dataset CLEANEDD.xlsx                | Cleaned retail sales dataset |
 | ` MINI PROJECTT.pbix                               | Power BI dashboard           |
