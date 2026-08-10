@@ -64,11 +64,12 @@ The analysis helps identify:
 
 ## 📁 Project Files
 
-| File                          | Description                  |
-| ----------------------------- | ---------------------------- |
-| `Retail_Sales_Data.xlsx`      | Cleaned retail sales dataset |
-| `Retail_Sales_Dashboard.pbix` | Power BI dashboard           |
-| `Dashboard.png`               | Dashboard preview            |
+| File                                               | Description                  |
+| -----------------------------------------------------------------------------------  
+| `retail_sales_dataset.csv                          | DIRTY DATASET                |
+| `retail_sales_dataset CLEANEDD.xlsx                | Cleaned retail sales dataset |
+| ` MINI PROJECTT.pbix                               | Power BI dashboard           |
+| ` RETAIL SALES DATA ANALYSIS PROJECT REPORT        | project report               |
 
 ## 🎯 Conclusion
 
