@@ -72,7 +72,7 @@ The analysis helps identify:
 | ----------------------------------------------- | -------------------------------- |
 | `retail_sales_dataset.csv`                      | Raw / dirty retail sales dataset |
 | `retail_sales_dataset_CLEANED.xlsx`             | Cleaned retail sales dataset     |
-| `MINI_PROJECTT.pbix`                            | Power BI interactive dashboard   |
+| `MINI_PROJECT.pbix`                            | Power BI interactive dashboard   |
 | `RETAIL_SALES_DATA_ANALYSIS_PROJECT_REPORT.pdf` | Complete project report          |
 
 ## 🎯 Conclusion
